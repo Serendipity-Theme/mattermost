@@ -1,20 +1,35 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for [Platform]
+# Serendipity for APP
+Serendipity theme adapted to APP
 
 
-# Installation
+# Instructions
 
-1. Open **X**.
-2. Search for **X**
-3. Click **X** to do **X**
+- Open Settings
+- Select Display from Sidebar
+- Select Theme > Edit
+- Select Custom Themes
+- Copy the content from .json files
 
-# Screenshots Under this heading
-![VS Code](https://raw.githubusercontent.com/Serendipity-Theme/vs-code/master/sunset.png)
 
-# Who ported the theme?
+# Available themes:
 
-# Standard formatting
-- Add the same header on the repo
-- Call the repo as the app you are porting for.
+## Screenshots
+
+### Midnght
+![Moonlight](https://github.com/Serendipity-Theme/Mattermost/blob/main/midnight.png?raw=true)
+
+### Sunset
+![Moonlight](https://github.com/Serendipity-Theme/Mattermost/blob/main/sunset.png?raw=true)
+
+### Morning
+![Moonlight](https://github.com/Sequoia-Theme/Mattermost/blob/main/morning.png?raw=true)
+
+
+#
+
+Sequoia Theme created by [Micheal Serendipity](https://github.com/michael-andreuzza) and ported by Mike.
+
+
 
