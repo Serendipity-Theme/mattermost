@@ -29,7 +29,7 @@ Serendipity theme adapted to APP
 
 #
 
-Sequoia Theme created by [Micheal Serendipity](https://github.com/michael-andreuzza) and ported by Mike.
+Serendipity Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported by Mike.
 
 
 
