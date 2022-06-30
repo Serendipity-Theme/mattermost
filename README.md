@@ -24,7 +24,7 @@ Serendipity theme adapted to APP
 ![Sunset](https://github.com/Serendipity-Theme/Mattermost/blob/main/sunset.png?raw=true)
 
 ### Morning
-![Morning](https://github.com/Sequoia-Theme/Mattermost/blob/main/morning.png?raw=true)
+![Morning](https://github.com/Serendipity-Theme/Mattermost/blob/main/morning.png?raw=true)
 
 
 #
