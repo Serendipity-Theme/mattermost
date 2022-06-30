@@ -18,13 +18,13 @@ Serendipity theme adapted to APP
 ## Screenshots
 
 ### Midnght
-![Moonlight](https://github.com/Serendipity-Theme/Mattermost/blob/main/midnight.png?raw=true)
+![Midnght](https://github.com/Serendipity-Theme/Mattermost/blob/main/midnight.png?raw=true)
 
 ### Sunset
-![Moonlight](https://github.com/Serendipity-Theme/Mattermost/blob/main/sunset.png?raw=true)
+![Sunset](https://github.com/Serendipity-Theme/Mattermost/blob/main/sunset.png?raw=true)
 
 ### Morning
-![Moonlight](https://github.com/Sequoia-Theme/Mattermost/blob/main/morning.png?raw=true)
+![Morning](https://github.com/Sequoia-Theme/Mattermost/blob/main/morning.png?raw=true)
 
 
 #
