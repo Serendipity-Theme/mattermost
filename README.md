@@ -13,7 +13,10 @@ Serendipity theme adapted to APP
 - Copy the content from .json files
 
 
-# Available themes:
+# Available themes
+- Midnight
+- Sunset
+- Morning
 
 ## Screenshots
 
