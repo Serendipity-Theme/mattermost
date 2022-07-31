@@ -1,7 +1,7 @@
 ![Midnight](https://raw.githubusercontent.com/Serendipity-Theme/assets/main/githubHeader.png)
 
-# Serendipity for APP
-Serendipity theme adapted to APP
+# Serendipity for Mattermost
+Serendipity theme adapted to Mattermost
 
 
 # Instructions
@@ -10,7 +10,7 @@ Serendipity theme adapted to APP
 - Select Display from Sidebar
 - Select Theme > Edit
 - Select Custom Themes
-- Copy the content from .json files
+- Copy the content from `.json` files
 
 
 # Available themes
